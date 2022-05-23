@@ -2,13 +2,16 @@
 
 This simple Automated BASH scirpt would launch an AWS EC2 Instance.
 
-Compenents.
+Compenents
+-------------
 
-####### Automated set up of AWS SG, Pem file and Inbound/Outbound network rules rules #########
+####### Automated set up of AWS SG, Pem file along with the Inbound/Outbound network rules  #########
 
 ######### Autoamted setup of Ec2 instance with given AMI ids from the pool #########
 
 ######### Display generated instance details along with the public IPv4 and Instance ID #########
+
+######### Simply manage instance state #########
 
 
 Prequesties
